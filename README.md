@@ -1,5 +1,6 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=codewithgyan467&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codewithgyan467.codewithgyan467" />
+<img src="https://github.com/codewithgyan467/codewithgyan467/blob/main/banner.gif" alt="Banner" width="100%" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gyandeep!&color=00FF00" />
