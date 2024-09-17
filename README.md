@@ -100,31 +100,45 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/codewithgyan467/codewithgyan467/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
 </div>
+<div style="text-align: center; margin-bottom: 20px;">
+    <h2>🔧 Projects</h2>
+    <p>
+        <strong>PROJECT NO 1 :-</strong> I built a Medical Inventory Management Software in PHP for the government hospital named Karmashri Hiteswer Saikia Ligiripukhuri Nazira SDCH. This software helps in managing medical inventory efficiently, ensuring that the hospital's medical supplies are tracked and managed effectively. It includes features for inventory tracking, reporting, and more, tailored to meet the needs of the healthcare facility.
+    </p>
+    <p>
+        You can explore the repository for more details on the project: 
+        <a href="https://github.com/codewithgyan467/KSHS-medical-inventory-project" target="_blank">KSHS Medical Inventory Project Repository</a>
+    </p>
+</div>
+
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
     <div style="flex: 1; text-align: center;">
-        <h2>🔧 Projects</h2>
         <p>
-            <a href="https://github.com/codewithgyan467/project1">
-                <img src="https://via.placeholder.com/150" alt="Project 1" width="150" height="150" />
-                <br/>Project 1
-            </a>
-            <br/>
-            <a href="https://github.com/codewithgyan467/project2">
-                <img src="https://via.placeholder.com/150" alt="Project 2" width="150" height="150" />
-                <br/>Project 2
-            </a>
+            <img src="https://github.com/codewithgyan467/codewithgyan467/blob/main/interface.png" alt="Project Interface 1" width="300" height="200" style="border: 2px solid #ddd; border-radius: 8px; transition: transform 0.2s;" />
+            <br/>Project Interface 1
         </p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <h2>🏆 Achievements</h2>
         <p>
-<a href="https://github.com/codewithgyan467/codewithgyan467/blob/main/udemy%20excel.pdf" target="_blank">
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-13ad327e-2aa3-47bf-98ea-3b57454bda70.jpg" alt="Certification 1" width="150" height="150" />
-</a><p>
-Certificat of completion on Excel Skills on Udemy 
+            <img src="https://github.com/codewithgyan467/codewithgyan467/blob/main/interface2.png" alt="Project Interface 2" width="300" height="200" style="border: 2px solid #ddd; border-radius: 8px;" />
+            <br/>Project Interface 2
         </p>
     </div>
 </div>
+
+<div style="flex: 1; text-align: center; padding: 20px;">
+    <h2>🏆 Achievements</h2>
+    <p style="margin-bottom: 10px;">
+        <a href="https://github.com/codewithgyan467/codewithgyan467/blob/main/udemy%20excel.pdf" target="_blank">
+            <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-13ad327e-2aa3-47bf-98ea-3b57454bda70.jpg" alt="Certification 1" width="150" height="150" style="border: 2px solid #ddd; border-radius: 8px; transition: transform 0.2s;" />
+        </a>
+    </p>
+    <p>
+        Certificate of completion on Excel Skills on Udemy 
+    </p>
+</div>
+
+   
 
    
   
