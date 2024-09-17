@@ -118,10 +118,10 @@
     <div style="flex: 1; text-align: center;">
         <h2>🏆 Achievements</h2>
         <p>
-            <a href="https://www.example.com">
-                <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-13ad327e-2aa3-47bf-98ea-3b57454bda70.jpg" alt="Certification 1" width="150" height="150" />
-                <br/>
-            </a>Certificat of completion on Excel Skills on Udemy 
+<a href="https://github.com/codewithgyan467/codewithgyan467/blob/main/udemy%20excel.pdf" target="_blank">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-13ad327e-2aa3-47bf-98ea-3b57454bda70.jpg" alt="Certification 1" width="150" height="150" />
+</a><p>
+Certificat of completion on Excel Skills on Udemy 
         </p>
     </div>
 </div>
