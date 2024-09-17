@@ -15,11 +15,11 @@ jobs:
       - name: Generate snake animation
         uses: platane/snk@v2
         with:
-          github_user_name: codewithgyan467
+          github_user_name: codewithgyan467 # Make sure this is the correct username
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated snake animation to output branch
+      - name: Upload snake animation
         uses: actions/upload-artifact@v3
         with:
           name: github-contribution-grid-snake
