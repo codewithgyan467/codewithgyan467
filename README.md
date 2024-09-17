@@ -119,9 +119,9 @@
         <h2>🏆 Achievements</h2>
         <p>
             <a href="https://www.example.com">
-                <img src="https://via.placeholder.com/150" alt="Certification 1" width="150" height="150" />
-                <br/>Certification 1
-            </a>
+                <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-13ad327e-2aa3-47bf-98ea-3b57454bda70.jpg" alt="Certification 1" width="150" height="150" />
+                <br/>
+            </a>Certificat of completion on Excel Skills on Udemy 
         </p>
     </div>
 </div>
