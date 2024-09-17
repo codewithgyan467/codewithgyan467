@@ -100,3 +100,36 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/codewithgyan467/codewithgyan467/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
 </div>
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <div style="flex: 1; text-align: center;">
+        <h2>🔧 Projects</h2>
+        <p>
+            <a href="https://github.com/codewithgyan467/project1">
+                <img src="https://via.placeholder.com/150" alt="Project 1" width="150" height="150" />
+                <br/>Project 1
+            </a>
+            <br/>
+            <a href="https://github.com/codewithgyan467/project2">
+                <img src="https://via.placeholder.com/150" alt="Project 2" width="150" height="150" />
+                <br/>Project 2
+            </a>
+        </p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <h2>🏆 Achievements</h2>
+        <p>
+            <a href="https://www.example.com">
+                <img src="https://via.placeholder.com/150" alt="Certification 1" width="150" height="150" />
+                <br/>Certification 1
+            </a>
+        </p>
+    </div>
+</div>
+
+   
+  
+
+
+
+
+
