@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/codewithgyan467/codewithgyan467/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/codewithgyan467/codewithgyan467/blob/output/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm Gyandeep Duwarah</h1>
 <h3 align="center">A passionate frontend developer from Assam,India</h3>
 
