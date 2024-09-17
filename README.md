@@ -1,3 +1,4 @@
+<img align="left" src="https://komarev.com/ghpvc/?username=codewithgyan467&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codewithgyan467.codewithgyan467" />
 
 <h1 align="center">
@@ -7,7 +8,6 @@
 <h3 align="center">A passionate frontend developer from Assam, India</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=codewithgyan467&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=codewithgyan467" alt="Trophies" />
     </a>
@@ -59,9 +59,6 @@
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
