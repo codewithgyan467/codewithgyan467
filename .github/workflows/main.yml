@@ -1,6 +1,4 @@
 name: "Generate Snake Game from GitHub Contributions Grid"
-description: "Generates a snake game from a GitHub user's contributions grid. Outputs the animation as gif or svg"
-author: "platane"
 
 # Define triggers for the workflow
 on:
