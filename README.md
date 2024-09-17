@@ -1,3 +1,4 @@
+![Logo](https://github.com/codewithgyan467/codewithgyan467/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Gyandeep Duwarah</h1>
 <h3 align="center">A passionate frontend developer from Assam,India</h3>
 
