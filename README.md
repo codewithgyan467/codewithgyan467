@@ -2,8 +2,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codewithgyan467.codewithgyan467" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gyandeep!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gyandeep!&color=00FF00" />
 </h1>
+
 
 <h3 align="center">A passionate frontend developer from Assam, India</h3>
 
