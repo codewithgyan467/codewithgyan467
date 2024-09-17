@@ -1,28 +1,26 @@
-name: "Generate Snake Game from GitHub Contributions Grid"
+name: Generate Snake Game from GitHub Contributions Grid
 
-# Define triggers for the workflow
 on:
-  push:         # Trigger the workflow on push events
-    branches:
-      - main    # Change 'main' to your default branch if different
-  workflow_dispatch:  # Allows manual triggering
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight every day
+  workflow_dispatch:
 
 jobs:
   generate_snake:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout the repository
+        uses: actions/checkout@v2
 
-      - name: Generate Snake Game from Contributions
+      - name: Generate snake animation
         uses: platane/snk@v2
         with:
-          github_user_name: "codewithgyan467"  # Your GitHub username here
-          github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub token (auto-provided)
+          github_user_name: codewithgyan467
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload Generated Files
-        uses: actions/upload-artifact@v3
+      - name: Push generated snake animation to output branch
+        uses: actions/upload-artifact@v2
         with:
-          name: snake-game
-          path: dark.svg  # Replace with the output file(s) you expect
+          name: github-contribution-grid-snake
+          path: .github/contribution-grid-snake.svg
