@@ -127,16 +127,22 @@
 </div>
 
 <div style="flex: 1; text-align: center; padding: 20px;">
-    <h2>🏆 Achievements</h2>
-    <p style="margin-bottom: 10px;">
-        <a href="https://github.com/codewithgyan467/codewithgyan467/blob/main/udemy%20excel.pdf" target="_blank">
-            <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-13ad327e-2aa3-47bf-98ea-3b57454bda70.jpg" alt="Certification 1" width="150" height="150" style="border: 2px solid #ddd; border-radius: 8px; transition: transform 0.2s;" />
-        </a>
-    </p>
-    <p>
-        Certificate of completion on Excel Skills on Udemy 
-    </p>
-</div>
+  <h2>🏆 Achievements</h2>
+
+<p style="margin-bottom: 10px;">
+    <a href="https://github.com/codewithgyan467/codewithgyan467/blob/main/udemy%20excel.pdf" target="_blank">
+        <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-13ad327e-2aa3-47bf-98ea-3b57454bda70.jpg" alt="Certification 1" width="150" height="150" style="border: 2px solid #ddd; border-radius: 8px; transition: transform 0.2s;" />
+    </a>
+</p>
+<p>Certificate of completion on Excel Skills on Udemy</p>
+
+
+<p style="margin-bottom: 10px;">
+    <a href="https://github.com/codewithgyan467/codewithgyan467/blob/main/Advance%20excel.pdf" target="_blank">
+        <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fe396eac-d0d7-4dea-b05f-c4214024cfe2.jpg" alt="Certification 2" width="150" height="150" style="border: 2px solid #ddd; border-radius: 8px; transition: transform 0.2s;" />
+    </a>
+</p>
+<p>Certificate of completion on Advanced Excel Skills on Udemy</p>
 
    
 
