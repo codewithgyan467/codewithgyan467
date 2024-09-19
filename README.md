@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://instagram.com/___gyan.nn_" target="_blank">
+    <a href="https://www.instagram.com/__gyan.nn_?igsh=MWs0OGw5NHF6cHlybw==" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
