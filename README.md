@@ -92,7 +92,16 @@
     <h2>⚡ Stats ⚡</h2>
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithgyan467&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=codewithgyan467&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgyan467&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgyan467&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide=html,css" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+    <h3>Tech Stack</h3>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
 <div align="center">
