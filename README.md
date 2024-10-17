@@ -110,7 +110,7 @@
     <br/><br/><br/>
 </div>
 <div style="text-align: center; margin-bottom: 20px;">
-    <h2>🔧 Projects</h2>
+    <h2>🔧 Real Time Running Projects</h2>
     <p>
         <strong>PROJECT NO 1 :-</strong> I built a Medical Inventory Management Software in PHP for the government hospital named Karmashri Hiteswer Saikia Ligiripukhuri Nazira SDCH. This software helps in managing medical inventory efficiently, ensuring that the hospital's medical supplies are tracked and managed effectively. It includes features for inventory tracking, reporting, and more, tailored to meet the needs of the healthcare facility.
     </p>
