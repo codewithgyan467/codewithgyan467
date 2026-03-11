@@ -9,11 +9,6 @@
 
 <h3 align="center">A passionate frontend developer from Assam, India</h3>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=codewithgyan467" alt="Trophies" />
-    </a>
-</p>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
