@@ -1,14 +1,12 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=codewithgyan467&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codewithgyan467.codewithgyan467" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=codewithgyan467.codewithgyan467&countColor=%230e75b6" alt="visitor badge" />
 <img src="https://github.com/codewithgyan467/codewithgyan467/blob/main/banner.gif" alt="Banner" width="100%" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gyandeep!&color=00FF00" />
 </h1>
 
-
 <h3 align="center">A passionate frontend developer from Assam, India</h3>
-
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
@@ -83,15 +81,16 @@
     </a>
 </p>
 
+<div align="center">
+    <h2>🏆 GitHub Trophies</h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithgyan467&theme=radical&margin-w=15" alt="codewithgyan467's Trophies" />
+</div>
 
 <div align="center">
     <h2>⚡ Stats ⚡</h2>
-  
-  
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgyan467&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-
-
+    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgyan467&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
+
 <div align="center">
     <h3>Tech Stack</h3>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -105,6 +104,7 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/codewithgyan467/codewithgyan467/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
 </div>
+
 <div style="text-align: center; margin-bottom: 20px;">
     <h2>🔧 Real Time Running Projects</h2>
     <p>
@@ -141,20 +141,10 @@
 </p>
 <p>Certificate of completion on Excel Skills on Udemy</p>
 
-
 <p style="margin-bottom: 10px;">
     <a href="https://github.com/codewithgyan467/codewithgyan467/blob/main/Advance%20excel.pdf" target="_blank">
         <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fe396eac-d0d7-4dea-b05f-c4214024cfe2.jpg" alt="Certification 2" width="150" height="150" style="border: 2px solid #ddd; border-radius: 8px; transition: transform 0.2s;" />
     </a>
 </p>
 <p>Certificate of completion on Advanced Excel Skills on Udemy</p>
-
-   
-
-   
-  
-
-
-
-
-
+</div>
