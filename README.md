@@ -14,7 +14,7 @@
 
 <!-- Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&center=true&vCenter=true&width=600&height=60&duration=3500&lines=Hi+There!+%F0%9F%91%8B+I'm+Gyandeep!;Passionate+Frontend+%26+Web+Developer;Building+Real-World+Tech+from+Assam,+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&center=true&vCenter=true&width=600&height=60&duration=3500&lines=Hi+There!+%F0%9F%91%8B+I'm+Gyandeep!;Passionate+Frontend+%26+3D+Web+Developer;Building+Real-World+Tech+from+Assam,+India" alt="Typing SVG" />
 </h1>
 
 ---
@@ -24,17 +24,17 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 **Live Portfolio:** [myprotfolio-tau-ten.vercel.app](https://myprotfolio-tau-ten.vercel.app/)
+- 🌐 **Interactive 3D Portfolio:** [myprotfolio-tau-ten.vercel.app](https://myprotfolio-tau-ten.vercel.app/)
 - 🔭 **Real-World Impact:** Built and deployed a **Medical Inventory Management System** for **Karmashri Hiteswer Saikia Ligiripukhuri Nazira SDCH** (Govt. Hospital).
-- 🌱 **Currently Exploring:** Modern Full-Stack Web Development (React, Node.js, Django) & Interactive 3D Web Experiences.
-- 🎨 **Design & Frontend:** Passionate about crafting clean, responsive user interfaces with React, Tailwind CSS, and Figma.
+- 🌱 **Currently Exploring:** Interactive 3D Web Graphics (Three.js, Blender) & Full-Stack Web Development (React, Node.js, Django).
+- 🎨 **Design & Frontend:** Passionate about crafting immersive 3D web experiences and clean, responsive user interfaces with React, Tailwind CSS, and Figma.
 - 📍 **Location:** Assam, India 🇮🇳
-- 💬 **Ask me about:** JavaScript, React, PHP, MySQL, and Frontend Architecture.
+- 💬 **Ask me about:** JavaScript, React, Three.js, PHP, MySQL, and Frontend Architecture.
 
 ### 🌐 Connect With Me & Portfolio
 <p align="left">
   <a href="https://myprotfolio-tau-ten.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/3D_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/gyandeep-duwarah-61b4b53a2/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -44,10 +44,6 @@
   </a>
   <a href="https://github.com/codewithgyan467" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Replace your-email@example.com with your actual email address -->
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -60,9 +56,9 @@
 
 <div align="center">
 
-#### 🎨 Frontend & Design
+#### 🎨 Frontend, 3D & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,blender" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwind,bootstrap,figma,blender" alt="Frontend & 3D Skills" />
 </p>
 
 #### ⚙️ Backend & Databases
@@ -82,30 +78,34 @@
 <!-- Featured Real-Time Projects Section -->
 <h2 align="center">🚀 Featured Real-Time Projects</h2>
 
-<!-- Project 1: Developer Portfolio -->
+<!-- Project 1: Interactive 3D Developer Portfolio -->
 <table align="center">
   <tr>
-    <td align="center" width="45%">
-      <a href="https://myprotfolio-tau-ten.vercel.app/" target="_blank">
-        <img src="https://api.microlink.io/?url=https://myprotfolio-tau-ten.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Live Preview" width="100%" />
-      </a>
-    </td>
-    <td align="left" width="55%">
-      <h3>🌐 Personal Developer Portfolio</h3>
+    <td colspan="2" align="center">
+      <h3>🦏 Interactive 3D Developer Portfolio — Cultural Heritage of Assam</h3>
       <p>
-        My interactive developer portfolio showcasing my frontend engineering projects, UI/UX design sensibility, technical skills, and journey as a developer from Assam. Deployed with continuous integration on Vercel.
+        An immersive, gamified <b>3D Web Portfolio</b> inspired by the cultural heritage of Sivasagar and Assam. Visitors navigate a 3D world featuring iconic landmarks like <b>Shiva Dol</b>, <b>Talatal Ghar</b>, and <b>Chaolung Sukapha</b> with holographic info panels, collecting coins along the way to unlock my CV.
       </p>
       <p>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
       <p>
         <a href="https://myprotfolio-tau-ten.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-%2300C7B7?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Play%20Live%203D%20Portfolio-%2300C7B7?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
         </a>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://myprotfolio-tau-ten.vercel.app/" target="_blank">
+        <img src="https://github.com/codewithgyan467/codewithgyan467/blob/main/protfolio.png?raw=true" alt="Interactive 3D Portfolio Preview" width="100%" />
+      </a>
+      <br/><sub><b>Interactive 3D World — Collect All Coins to Unlock CV & Explore Assam's Monuments</b></sub>
     </td>
   </tr>
 </table>
